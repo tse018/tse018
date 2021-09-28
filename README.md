@@ -36,7 +36,7 @@ Relevant courses:
 
 <h2>Skills</h2>
 Programminglanguages: 
-HTML, CSS, Javascript, Python, Javascript-Frameworks: React, Vue JS
+HTML, CSS, Javascript, Python, Javascript-Frameworks: Vue JS
 <br></br>
 Tools:VS Code, Git and Github, Adobe XD, Figma, Slack, MySQL
 <br></br>
