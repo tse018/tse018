@@ -12,9 +12,8 @@ Relevant courses:
   <li>Javascript</li>
   <li>Responsiv Design</li>
   <li>Universell Design</li>
-  <li>Javascript-Frameworks</li>
+  <li>Javascript-Frameworks:</li>
     <ul>
-      <li>React</li>
       <li>Vue JS</li>
     </ul>
   <li>App-development</li>
