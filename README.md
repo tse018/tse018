@@ -27,7 +27,7 @@ Relevant courses:
   <li>Programming</li>
   <li>Client-Programming</li>
   <li>Database</li>
-  <li>Semantich Technology</li>
+  <li>Semantic Technology</li>
   <li>System Development</li>
   <li>Interaction Design</li>
   <li>Social Web</li>
