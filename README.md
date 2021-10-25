@@ -16,9 +16,9 @@ Relevant courses:
     <ul>
       <li>Vue JS</li>
     </ul>
-  <li>App-development</li>
   <li>API</li>
 </ul>
+
 <h3>Bachelor degree in Information Science, University in Bergen</h3>
 20.08.2017 - 20.12.2020
 <br></br>
