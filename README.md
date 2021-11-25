@@ -1,5 +1,4 @@
 <h1>Thanushan Sellathurai</h1>
-Looking for job as entry-level frontend-developer
 
 <h2> Education </h2>
 <h3>Frontend-development, Fagskolen Kristiana</h3>
