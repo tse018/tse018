@@ -35,11 +35,11 @@ Relevant courses:
 
 <h2>Skills</h2>
 Programminglanguages: 
-HTML, CSS, Javascript, Python, Javascript-Frameworks: Vue JS
+HTML, CSS, Javascript, Vue JS, Responsive Design, Universel Design, Prototyping
 <br></br>
-Tools:VS Code, Git and Github, Adobe XD, Figma, Slack, MySQL
+Tools:VS Code, Git and Github, Figma, Slack, MySQL
 <br></br>
-Team skills: Communication, coorperation, leadership 
+Team skills: Communication, coorperation, leadership within group projects
 
 
 <!---
