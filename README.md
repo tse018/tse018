@@ -33,11 +33,13 @@ Relevant courses:
   <li> Discrete Mathematic</li>
 </ul>
 
-<h2>Skills</h2>
+<h2>Tech-stack</h2>
 Programminglanguages: 
-HTML, CSS, Javascript, Vue JS, Responsive Design, Universel Design, Prototyping
+HTML, CSS, Javascript, Vue JS
 <br></br>
-Tools:VS Code, Git and Github, Figma, Slack, MySQL
+Knowledge: Universel design, Responsive Design, BEM
+Agile: Incremental Model, Scrum and Kanban,
+Tools:VS Code, Git, Github, Figma, Slack, MySQL
 <br></br>
 Team skills: Communication, coorperation, leadership within group projects
 
