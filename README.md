@@ -15,7 +15,10 @@ Relevant courses:
     <ul>
       <li>Vue JS</li>
     </ul>
-  <li>API</li>
+  <li>API:</li>
+    <ul>
+      <li> REST API </li>
+    </ul>
 </ul>
 
 <h3>Bachelor degree in Information Science, University in Bergen</h3>
