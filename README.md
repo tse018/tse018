@@ -9,8 +9,9 @@ Relevant courses:
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
+   <li>Universell Design</li>
   <li>Responsiv Design</li>
-  <li>Universell Design</li>
+  <li>BEM</li>
   <li>Javascript-Frameworks:</li>
     <ul>
       <li>Vue JS</li>
