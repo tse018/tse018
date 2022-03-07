@@ -42,11 +42,11 @@ Relevant courses:
 Programminglanguages: 
 HTML, CSS, Javascript, Vue JS
 <br></br>
-Knowledge: Universel design, Responsive Design, BEM
+Knowledge: Universel design, Responsive Design, BEM, REST-API,
 <br></br>
 Agile: Incremental Model, Scrum and Kanban,
 <br><br>
-Tools:VS Code, Git, Github, Figma, Slack, MySQL
+Tools: VS Code, Git, Github, Postman, Figma, Slack, MySQL
 <br></br>
 Team skills: Communication, coorperation, leadership within group projects
 
