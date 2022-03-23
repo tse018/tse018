@@ -22,7 +22,9 @@ Relevant courses:
       <li> WEB API </li>
     </ul>
   <li> CMS </li>
-  <ul> Sanity </ul>
+  <ul> 
+    <li> Sanity </li>
+  </ul>
 </ul>
 
 <h3>Bachelor degree in Information Science, University in Bergen</h3>
