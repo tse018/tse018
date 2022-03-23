@@ -25,6 +25,7 @@ Relevant courses:
   <ul> 
     <li> Sanity </li>
   </ul>
+  <li> Database </li>
 </ul>
 
 <h3>Bachelor degree in Information Science, University in Bergen</h3>
