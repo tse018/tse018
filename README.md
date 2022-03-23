@@ -21,6 +21,8 @@ Relevant courses:
       <li> REST API </li>
       <li> WEB API </li>
     </ul>
+  <li> CMS </li>
+  <ul> Sanity </ul>
 </ul>
 
 <h3>Bachelor degree in Information Science, University in Bergen</h3>
