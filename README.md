@@ -25,7 +25,11 @@ Relevant courses:
   <ul> 
     <li> Sanity </li>
   </ul>
-  <li> Database </li>
+   <li> Database </li>
+    <ul>
+      <li> query language (GROQ) </li>
+    </ul>
+
 </ul>
 
 <h3>Bachelor degree in Information Science, University in Bergen</h3>
