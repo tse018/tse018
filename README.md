@@ -18,18 +18,13 @@ Relevant courses:
     </ul>
   <li>API:</li>
     <ul>
-      <li> REST API </li>
-      <li> WEB API </li>
+      <li> REST API / WEB API </li>
     </ul>
-  <li> CMS </li>
+  <li> Headless CMS </li>
   <ul> 
     <li> Sanity </li>
+    <li> Sanity query language - GROQ </li>
   </ul>
-   <li> Database </li>
-    <ul>
-      <li> query language (GROQ) </li>
-    </ul>
-
 </ul>
 
 <h3>Bachelor degree in Information Science, University in Bergen</h3>
