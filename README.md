@@ -46,11 +46,11 @@ Relevant courses:
 Programminglanguages: 
 HTML, CSS, Javascript, Vue JS
 <br></br>
-Knowledge: Universel design, Responsive Design, BEM, REST-API,
+Knowledge: Universel design, Responsive Design, BEM, REST-API / WEB API, MAPBOX GL JS, 
 <br></br>
 Agile: Incremental Model, Scrum and Kanban,
 <br><br>
-Tools: VS Code, Git, Github, Postman, Figma, Slack, MySQL
+Tools: VS Code, Git, Github, Postman, Figma, Slack, MySQL, Netlify, Sanity
 <br></br>
 Team skills: Communication, coorperation, leadership within group projects
 
