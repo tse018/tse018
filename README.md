@@ -24,7 +24,7 @@ Relevant courses:
   <ul> 
     <li> Sanity </li>
     <li> Sanity query language - GROQ </li>
-    <li> Document-oriented database </li>
+    <li> Databse model - document-oriented database </li>
   </ul>
 </ul>
 
