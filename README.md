@@ -1,4 +1,4 @@
-<a href="https://thanushansellathurai.netlify.app/" target="_blank"> THANUSHAN SELLATHURAI PORTFOLIO </a>
+<a href="https://thanushansellathurai.netlify.app/" target="_blank"> PORTFOLIO </a>
 
 <h2> Education </h2>
 <h3>Frontend-development, Fagskolen Kristiana</h3>
