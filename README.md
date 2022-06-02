@@ -1,5 +1,4 @@
 <h1>Thanushan Sellathurai</h1>
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 <h2> Education </h2>
 <h3>Frontend-development, Fagskolen Kristiana</h3>
