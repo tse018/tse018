@@ -1,3 +1,4 @@
+<h1> OPEN FOR HIRE </h1>
 <a href="https://thanushansellathurai.netlify.app/" target="_blank"> PORTFOLIO </a>
 
 <h2> Education </h2>
