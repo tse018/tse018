@@ -13,6 +13,7 @@ Relevant courses:
    <li>Universell Design</li>
   <li>Responsiv Design</li>
   <li>BEM</li>
+  <li> Netlify </li>
   <li>Javascript-Frameworks:</li>
     <ul>
       <li>Vue JS</li>
