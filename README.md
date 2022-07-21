@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Thanushan Sellathurai 👋 
+<h1 align="center"> Hi, I'm Thanushan Sellathurai 👋 <br>
 Frontend Developer Tech Stack </h1>
 
 <p align="center"> 
