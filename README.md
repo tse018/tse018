@@ -6,7 +6,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="100" height="100"/> 
   </a>
   
-  <a margin="20px" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="100" height="100" /> 
   </a> 
   
