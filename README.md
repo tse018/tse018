@@ -1,6 +1,7 @@
-<h1 align="center"> Hi, I'm Thanushan Sellathurai 👋 </h1>
+<h1 align="center"> Hi, I'm Thanushan Sellathurai 👋
   <br>
   <h2 align="center"> Frontend Developer Tech Stack </h2>
+ </h1>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
