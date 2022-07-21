@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thanushan Sellathurai 👋 </h1>
 <h3 align="center"> Frontend Developer Tech Stack </h3>
 
-<p align="center"> 
+<p align="center" margin="20px"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="110" height="110"/> 
   </a>
