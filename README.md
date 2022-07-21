@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Thanushan Sellathurai 👋
   <br>
-  <h2 align="center"> Frontend Developer Tech Stack </h2>
+  <h2 align="center"> Frontend Developer Tech Stack: </h2>
  </h1>
 
 <p align="center"> 
