@@ -38,9 +38,6 @@
   </p>
   
   <br>
-  
-  <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tse018&show_icons=true&locale=en&layout=compact" alt="tse018" /></p>
 
 <p align="center">
   &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=tse018&show_icons=true&locale=en" alt="tse018" />
@@ -49,6 +46,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tse018&" alt="tse018" />
 </p>
+
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tse018&show_icons=true&locale=en&layout=compact" alt="tse018" /></p>
 
 
 <br>
