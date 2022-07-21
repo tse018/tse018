@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Thanushan Sellathurai 👋 </h1>
 <h3 align="center"> Frontend Developer Tech Stack </h3>
 
-<p align="center" margin="20px"> 
+<p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="110" height="110"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="100" height="100"/> 
   </a>
   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <a margin="20px" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="100" height="100" /> 
   </a> 
   
