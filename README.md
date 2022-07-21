@@ -4,9 +4,6 @@
  </h1>
 
 <p align="center"> 
-  
-<img src="https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”mybanner” />
- 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="100" height="100" /> 
     
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="100" height="100" /> 
