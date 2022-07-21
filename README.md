@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Thanushan </h1>
-<h3 align="center">A passionate graphic designer and frontend developer from Norway</h3>
+<h1 align="center">Hi 👋, I'm Thanushan Sellathurai </h1>
+<h3 align="center"> A passionate graphic designer and frontend developer from Norway</h3>
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzskjaerstad&show_icons=true&locale=en" alt="mzskjaerstad" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tse018&show_icons=true&locale=en" alt="tse018" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzskjaerstad&" alt="mzskjaerstad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tse018&" alt="tse018" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzskjaerstad&show_icons=true&locale=en&layout=compact" alt="mzskjaerstad" /></p>
 
